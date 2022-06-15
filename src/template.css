@@ -1,0 +1,14 @@
+nav {
+    background-image: rgba(227,46,45,0.85);
+    height:90px; 
+    font-size:40px;
+}
+
+ul {
+    width: 100%;
+}
+
+section div div {
+    border-radius: 3%;
+    background-color: darkgrey;
+}
